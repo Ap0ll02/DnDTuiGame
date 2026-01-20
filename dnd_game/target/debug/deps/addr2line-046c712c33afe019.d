@@ -1,0 +1,10 @@
+/home/jack/Code/DnDTuiGame/dnd_game/target/debug/deps/addr2line-046c712c33afe019.d: /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/lib.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/frame.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/function.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/line.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/lookup.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/unit.rs
+
+/home/jack/Code/DnDTuiGame/dnd_game/target/debug/deps/libaddr2line-046c712c33afe019.rmeta: /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/lib.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/frame.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/function.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/line.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/lookup.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/unit.rs
+
+/home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/lib.rs:
+/home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/frame.rs:
+/home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/function.rs:
+/home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/line.rs:
+/home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/lookup.rs:
+/home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/unit.rs:

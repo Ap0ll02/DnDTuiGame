@@ -1,0 +1,15 @@
+/home/jack/Code/DnDTuiGame/dnd_game/target/debug/deps/eyre-44cad881b8604348.d: /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/lib.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/backtrace.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/chain.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/context.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/error.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/fmt.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/kind.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/macros.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/option.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/ptr.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/wrapper.rs
+
+/home/jack/Code/DnDTuiGame/dnd_game/target/debug/deps/libeyre-44cad881b8604348.rmeta: /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/lib.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/backtrace.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/chain.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/context.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/error.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/fmt.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/kind.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/macros.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/option.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/ptr.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/wrapper.rs
+
+/home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/lib.rs:
+/home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/backtrace.rs:
+/home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/chain.rs:
+/home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/context.rs:
+/home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/error.rs:
+/home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/fmt.rs:
+/home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/kind.rs:
+/home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/macros.rs:
+/home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/option.rs:
+/home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/ptr.rs:
+/home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/wrapper.rs:

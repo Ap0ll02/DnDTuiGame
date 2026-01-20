@@ -1,0 +1,12 @@
+/home/jack/Code/DnDTuiGame/dnd_game/target/debug/deps/color_eyre-42916560995cca4c.d: /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/lib.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/config.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/fmt.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/handler.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/private.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/section/mod.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/section/help.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/writers.rs
+
+/home/jack/Code/DnDTuiGame/dnd_game/target/debug/deps/libcolor_eyre-42916560995cca4c.rmeta: /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/lib.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/config.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/fmt.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/handler.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/private.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/section/mod.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/section/help.rs /home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/writers.rs
+
+/home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/lib.rs:
+/home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/config.rs:
+/home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/fmt.rs:
+/home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/handler.rs:
+/home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/private.rs:
+/home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/section/mod.rs:
+/home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/section/help.rs:
+/home/jack/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/writers.rs:
