@@ -1,4 +1,6 @@
-use crossterm::event::KeyCode;
+use std::time::{Duration, Instant};
+
+use crossterm::{cursor, event::KeyCode};
 use ratatui::{
     DefaultTerminal, Frame,
     layout::{Constraint, Layout},
@@ -18,6 +20,7 @@ struct App {
 struct Input {
     text: String,
     finalized: bool,
+    last_blink: Instant,
 }
 
 fn main() -> color_eyre::Result<()> {
@@ -34,10 +37,17 @@ fn app(terminal: &mut DefaultTerminal) -> std::io::Result<()> {
     let mut input = Input {
         text: String::new(),
         finalized: false,
+        last_blink: Instant::now(),
     };
 
     loop {
-        terminal.draw(|f| render(f, &app, &input))?;
+        let now = Instant::now();
+        if now.duration_since(input.last_blink) >= Duration::from_millis(500) {
+            // Put cursor shit here
+            input.last_blink = Instant::now();
+        }
+
+        terminal.draw(|f| render(f, &app, &mut input))?;
         if let crossterm::event::Event::Key(key) = crossterm::event::read()? {
             match app.scene {
                 Scene::MainMenu => {
@@ -72,7 +82,7 @@ fn app(terminal: &mut DefaultTerminal) -> std::io::Result<()> {
     }
 }
 
-fn render(frame: &mut Frame, app: &App, input: &Input) {
+fn render(frame: &mut Frame, app: &App, input: &mut Input) {
     match app.scene {
         Scene::MainMenu => render_main_menu(frame),
         Scene::Scene1(_) => render_scene_one(frame, input),
@@ -95,7 +105,7 @@ fn render_main_menu(frame: &mut Frame) {
     frame.render_widget(text, frame.area());
 }
 
-fn render_scene_one(frame: &mut Frame, input: &Input) {
+fn render_scene_one(frame: &mut Frame, input: &mut Input) {
     use ratatui::layout::Alignment;
     use ratatui::widgets::{Block, Borders, Paragraph};
     let block = Block::new()
